@@ -1,3 +1,5 @@
+Open browser and enter kclms.azurewebsites.net
+
 
 To add/edit/remove orders, use Postman to simulate a HTTP request:
 
