@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{746DF8FC-8446-4104-A4E2-C952ED73A6D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hackathon_KCLMS/Views/Orders/Detail.cshtml">
+    <Files>
+      <File FileName="Hackathon_KCLMS/Views/Orders/Detail.cshtml" Line="7" Column="28" />
+      <File FileName="Hackathon_KCLMS/Views/Orders/Index.cshtml" Line="41" Column="53" />
+      <File FileName="Hackathon_KCLMS/Views/Home/Privacy.cshtml" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hackathon_KCLMS" expanded="True">
+            <Node name="Hackathon_KCLMS" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Data" expanded="True" />
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Register.cshtml" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Orders" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Orders" expanded="True">
+                  <Node name="Detail.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hackathon__KCLMS PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

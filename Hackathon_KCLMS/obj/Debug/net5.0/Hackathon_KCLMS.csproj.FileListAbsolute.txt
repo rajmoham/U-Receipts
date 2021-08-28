@@ -1,0 +1,1441 @@
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/appsettings.json
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.exe
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.deps.json
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.runtimeconfig.json
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.runtimeconfig.dev.json
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ref/Hackathon_KCLMS.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/mscorlib.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/netstandard.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.AppContext.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Buffers.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Configuration.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Console.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Data.Common.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Data.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Drawing.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Globalization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Memory.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Http.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Mail.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Ping.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Requests.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Security.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Numerics.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ObjectModel.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Claims.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Principal.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Json.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Transactions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ValueTuple.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Web.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Windows.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/refs/WindowsBase.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.Views.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.Views.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Humanizer.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Newtonsoft.Json.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.Convention.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.Hosting.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.Runtime.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.TypedParts.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.csproj.AssemblyReference.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.AssemblyInfoInputs.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.AssemblyInfo.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.csproj.CoreCompileInputs.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorAssemblyInfo.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorAssemblyInfo.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/staticwebassets/Hackathon_KCLMS.StaticWebAssets.Manifest.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/staticwebassets/Hackathon_KCLMS.StaticWebAssets.xml
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/scopedcss/bundle/Hackathon_KCLMS.styles.css
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.TagHelpers.input.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.TagHelpers.output.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorCoreGenerate.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorTargetAssemblyInfo.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorTargetAssemblyInfo.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.Views.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.csproj.CopyComplete
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/ref/Hackathon_KCLMS.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.genruntimeconfig.cache
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.StaticWebAssets.xml
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Runtime.Caching.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Account/Index.cshtml.g.cs
+C:/Users/ronal/source/repos/Hackathon_KCLMS/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Account/RegisterStore.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/appsettings.Development.json
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/appsettings.json
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.StaticWebAssets.xml
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.deps.json
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.runtimeconfig.json
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.runtimeconfig.dev.json
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ref/Hackathon_KCLMS.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.CSharp.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Http.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Localization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Options.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.JSInterop.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.VisualBasic.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Win32.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/Microsoft.Win32.Registry.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/mscorlib.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/netstandard.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.AppContext.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Buffers.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.Concurrent.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.Immutable.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.NonGeneric.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Collections.Specialized.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.Annotations.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Configuration.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Console.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Data.Common.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Data.DataSetExtensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Data.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Contracts.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Debug.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.EventLog.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Process.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.StackTrace.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Tools.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.TraceSource.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Diagnostics.Tracing.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Drawing.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Drawing.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Dynamic.Runtime.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Formats.Asn1.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Globalization.Calendars.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Globalization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Globalization.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.Brotli.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.FileSystem.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Compression.ZipFile.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.IsolatedStorage.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Pipelines.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.Pipes.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.Expressions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.Parallel.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Linq.Queryable.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Memory.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Http.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Http.Json.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.HttpListener.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Mail.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.NameResolution.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.NetworkInformation.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Ping.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Requests.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Security.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.ServicePoint.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.Sockets.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebClient.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebHeaderCollection.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebProxy.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebSockets.Client.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Net.WebSockets.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Numerics.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Numerics.Vectors.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ObjectModel.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.DispatchProxy.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Emit.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Metadata.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Reflection.TypeExtensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Resources.Reader.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Resources.ResourceManager.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Resources.Writer.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Handles.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.InteropServices.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Intrinsics.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Loader.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Numerics.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Json.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.AccessControl.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Claims.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Cng.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Csp.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Cryptography.Xml.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Permissions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Principal.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.Principal.Windows.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Security.SecureString.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ServiceModel.Web.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ServiceProcess.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encoding.CodePages.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encoding.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encoding.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Encodings.Web.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.Json.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Text.RegularExpressions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Channels.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Overlapped.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Thread.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.ThreadPool.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Threading.Timer.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Transactions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Transactions.Local.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.ValueTuple.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Web.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Web.HttpUtility.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Windows.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Windows.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.Linq.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.ReaderWriter.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.Serialization.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XDocument.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XmlDocument.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XmlSerializer.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XPath.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/System.Xml.XPath.XDocument.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/refs/WindowsBase.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.Views.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Hackathon_KCLMS.Views.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Humanizer.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.csproj.AssemblyReference.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.AssemblyInfoInputs.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.AssemblyInfo.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.csproj.CoreCompileInputs.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.MvcApplicationPartsAssemblyInfo.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.MvcApplicationPartsAssemblyInfo.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorAssemblyInfo.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorAssemblyInfo.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/staticwebassets/Hackathon_KCLMS.StaticWebAssets.Manifest.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/staticwebassets/Hackathon_KCLMS.StaticWebAssets.xml
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/scopedcss/bundle/Hackathon_KCLMS.styles.css
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.TagHelpers.input.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.TagHelpers.output.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorCoreGenerate.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/AccessDenied.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ExternalLogin.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPassword.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Lockout.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Login.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWith2fa.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Logout.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Email.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/Index.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_Layout.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/Register.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPassword.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_StatusMessage.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Account/_ViewImports.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/Error.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewImports.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Areas/Identity/Pages/_ViewStart.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Account/Index.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Account/RegisterStore.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/_LoginPartial.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorTargetAssemblyInfo.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.RazorTargetAssemblyInfo.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.Views.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.csproj.CopyComplete
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/ref/Hackathon_KCLMS.dll
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.pdb
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Hackathon_KCLMS.genruntimeconfig.cache
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Account/ManageCards.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Account/InsertCard.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Orders/Index.cshtml.g.cs
+/Users/ronaldobutrus/Documents/SoftwareDev/Hackathon/Hackathon_KCLMS/obj/Debug/net5.0/Razor/Views/Orders/Detail.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\appsettings.json
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.StaticWebAssets.xml
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.exe
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.deps.json
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.runtimeconfig.json
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.runtimeconfig.dev.json
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ref\Hackathon_KCLMS.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.Views.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Hackathon_KCLMS.Views.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.csprojAssemblyReference.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.AssemblyInfoInputs.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.AssemblyInfo.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.csproj.CoreCompileInputs.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.RazorAssemblyInfo.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.RazorAssemblyInfo.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\staticwebassets\Hackathon_KCLMS.StaticWebAssets.Manifest.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\staticwebassets\Hackathon_KCLMS.StaticWebAssets.xml
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\scopedcss\bundle\Hackathon_KCLMS.styles.css
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.TagHelpers.input.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.TagHelpers.output.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.RazorCoreGenerate.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Account\InsertCard.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Account\ManageCards.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Account\RegisterStore.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Orders\Detail.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.RazorTargetAssemblyInfo.cache
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.RazorTargetAssemblyInfo.cs
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.Views.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.csproj.CopyComplete
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\ref\Hackathon_KCLMS.dll
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.pdb
+C:\Users\najme\Documents\Nush thing\Hackathon\Hackathon_KCLMS\obj\Debug\net5.0\Hackathon_KCLMS.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿@model Hackathon_KCLMS.ViewModels.Account.ManageCardsVM
+
+@{
+    ViewData["Title"] = "Manage Bank Cards";
+}
+
+<h1 class="mt-2 text-center">@ViewData["Title"]</h1>
+
+@foreach (BankCardLink card in Model.Cards)
+{
+    <div class="d-flex justify-content-between align-items-center mt-5 mb-2">
+        <h6>@card.Name</h6>
+        <form method="post">
+            <button asp-action="DeleteCard" asp-route-id="@card.Id" type="submit" class="btn btn-danger btn-sm">Delete card</button>
+        </form>
+    </div>
+    <hr />
+    @*
+        write some html for a card row with:
+        a label of card.Name
+        a button to delete the card
+    *@
+}
+
+<a asp-action="InsertCard" class="btn theme-clr mt-5">Add card</a>

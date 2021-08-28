@@ -1,0 +1,58 @@
+﻿@model Hackathon_KCLMS.ViewModels.Orders.IndexVM
+
+@{
+    ViewData["Title"] = "Manage Orders";
+}
+
+<h1 class="mt-2 text-center">@ViewData["Title"]</h1>
+
+@*<a asp-action="InsertOrder" class="btn theme-clr mb-5">Create order</a>*@
+
+<div class="d-flex align-items-center mt-5 mb-2">
+
+    <div class="col-3">
+        <h6>Store</h6>
+    </div>
+    <div class="col-2">
+        <h6>Date</h6>
+    </div>
+    <div class="col-2">
+        <h6>Time</h6>
+    </div>
+    <div class="col-2">
+        <h6>Amount</h6>
+    </div>
+</div>
+
+@foreach (OrderHeader orderHeader in Model.OrderHeaders)
+{
+<div class="d-flex align-items-center mt-1 mb-2">
+    <div class="col-3">
+        <h6>@orderHeader.Store.Name</h6>
+    </div>
+    <div class="col-2">
+        <h6>@orderHeader.DateOfPurchase.ToString("dd/MM/yyyy")</h6>
+    </div>
+    <div class="col-2">
+        <h6>@orderHeader.DateOfPurchase.ToString("HH:mm:ss")</h6>
+    </div>
+    <div class="col-2">
+        <h6>£@String.Format("{0:0.00}", orderHeader.TotalAmount)</h6>
+    </div>
+
+    <div class="col-3 d-flex justify-content-between">
+
+        <a asp-action="Detail" asp-route-id="@orderHeader.Id" class="btn theme-clr btn-sm">View</a>
+        <form method="post">
+            <button asp-action="Delete" asp-route-id="@orderHeader.Id" type="submit" class="btn btn-danger btn-sm">Delete order</button>
+        </form>
+    </div>
+
+</div>
+    <hr />
+    @*
+        write some html for a card row with:
+        a label of card.Name
+        a button to delete the card
+    *@
+}

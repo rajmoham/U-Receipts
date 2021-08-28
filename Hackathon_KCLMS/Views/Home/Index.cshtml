@@ -1,0 +1,140 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@using Microsoft.AspNetCore.Identity
+@using Hackathon_KCLMS.Data
+
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+
+@if (User.IsInRole(Hackathon_KCLMS.Helpers.Constants.UserRoles.Customer))
+{
+    <div class="container px-4 py-5" id="custom-cards">
+        <h2 class="pb-2 border-bottom">@UserManager.GetUserName(User) - Dashboard</h2>
+
+        <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+
+            <div class="col">
+                <a id="register" asp-area="" asp-controller="Account" asp-action="ManageCards" style="text-decoration:none;">
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('https://i.imgur.com/VbLCs9z.png');">
+                        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Cards</h2>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col">
+                <a id="register" asp-area="" asp-controller="Orders" asp-action="Index" style="text-decoration:none;">
+                    <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('https://i.imgur.com/tXEwBhP.jpg');">
+                        <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
+                            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Receipts</h2>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col">
+                <a id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })" style="text-decoration:none;">
+                    <div class="card card-cover h-100 w-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('https://i.imgur.com/rpvEy41.png');">
+                        <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+                            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Sign Out</h2>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+}
+else
+{
+
+    <div class="bg-dark text-secondary py-5 text-center">
+        <img src="https://i.imgur.com/BBhFn5b.png" height="100" width="100" style="border-radius:12px;"><br>
+        <h1 class="display-5 fw-bold text-white mt-3">Welcome to U-Receipts</h1>
+        <div class="col-lg-6 mx-auto">
+            <p class="fs-5 mb-4">The clean alternative to paper receipts
+        </div>
+    </div>
+    <div class="container py-5">
+        <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
+            <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
+                <h1 class="display-4 fw-bold lh-1">Register Now</h1>
+                <p class="lead">The clean solution to paper receipts. Helping to offset 700 million kilograms of non-recyclable waste, save companies 32 million pounds  and save 3 million trees annually in the UK.</p>
+                <div class="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
+                    <a type="button" class="btn theme-clr btn-lg px-4 me-md-2 fw-bold" id="register" href="/Identity/Account/Register">Register</a>
+                </div>
+                <a id="login" href="/Identity/Account/Login">Already have an account?</a>
+
+            </div>
+            <div class="col-lg-4 offset-lg-1 p-0 position-relative overflow-hidden shadow-lg">
+                <div class="position-lg-absolute top-0 left-0 overflow-hidden">
+                    <img class="mg-fluid border rounded-3 shadow-lg mb-4 img-100" src="https://www.rotary.org/sites/default/files/styles/w_600/public/Area_of_focus_Environment_Hero_SHU1317118457.jpg?itok=ZmMjhjF2" alt="" width="720">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container py-5">
+        <a id="reasons"><h2 class="pb-2 border-bottom">U-Receipts: How It Will Help Combat Climate Change</h2></a>
+    </div>
+    <div class="container marketing">
+
+        <link href="carousel.css" rel="stylesheet">
+
+
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h2 class="featurette-heading">Trees</h2>
+                <p class="lead">
+                    Every year in the UK 11 billion till receipts are printed, cutting down trees that would absorb over 60 million kilograms of carbon dioxide,
+                    meaning 0.01% of the UKs carbon footprint comes from these receipts.
+                </p>
+            </div>
+            <div class="col-md-5">
+                <img src="https://www.plt.org/wp-content/uploads/2017/03/facts-trees-world-500x500.png">
+
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <div class="row featurette">
+            <div class="col-md-7 order-md-2">
+                <h2 class="featurette-heading">Toxicity</h2>
+                <p class="lead">
+                    Till receipts are made using thermal paper, which are coated in a substance called bisphenol A and S (BPA and BPS).
+                    These substances are banned from plastic ass they are extremely toxic when ingested and hence also cant be recycled and must be thrown away in landfills,
+                    this means that companies are wasting money and resources without reason when our application can help solve this issue.
+                </p>
+            </div>
+            <div class="col-md-5 order-md-1">
+                <img src="https://thumbor.granitemedia.com/img/DwRNY8xVmpuB52tLecXApZf-zjY=/500x500/filters:format(webp):quality(80)/granite-web-prod/1b/d1/1bd1048c41624d9fbf54fb4d3a0b2b8c.jpeg">
+
+            </div>
+        </div>
+
+        <hr class="featurette-divider">
+        <div class="container py-5">
+            <div class="row featurette">
+                <div class="col-md-7">
+                    <h2 class="featurette-heading">Untapped Market</h2>
+                    <p class="lead">
+                        Some banks, such as Monzo, Barclays and HSBC  have already started to utilise something similar to U-Receipts, however these only show the price,
+                        store and time for  purchases made using your phone and must be purchases under £30. We hope to make a universal platform to be used by all stores and aim for a paperless retail community.
+                    </p>
+                </div>
+                <div class="col-md-5">
+                    <img src="https://www.strath.ac.uk/media/1newwebsite/departmentsubject/huntercentreforentrepreneurship/engagement.jpg">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+}

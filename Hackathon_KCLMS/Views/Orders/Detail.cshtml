@@ -1,0 +1,63 @@
+﻿@model Hackathon_KCLMS.ViewModels.Orders.DetailVM
+
+@{
+    ViewData["Title"] = $"Order {Model.OrderHeader.Id}";
+}
+
+<h1 class="mb-3">@ViewData["Title"]</h1>
+
+<h5>Order no. @Model.OrderHeader.Id</h5>
+<h5>Store: @Model.OrderHeader.Store.Name</h5>
+<h5>Date: @Model.OrderHeader.DateOfPurchase.ToString("dd/MM/yyyy")</h5>
+<h5 class="mb-5">Time: @Model.OrderHeader.DateOfPurchase.ToString("HH:mm:ss")</h5>
+
+<div class="d-flex">
+    <div class="col-3 fw-bold">
+        <h6>Product name</h6>
+    </div>
+    <div class="col-3 fw-bold">
+        <h6>Unit price</h6>
+    </div>
+    <div class="col-3 fw-bold">
+        <h6>Quantity</h6>
+    </div>
+    <div class="col-3 fw-bold">
+        <h6>Price</h6>
+    </div>
+</div>
+<hr />
+
+@foreach (OrderProduct orderProduct in Model.OrderProducts)
+{
+    //<div class="d-flex justify-content-between align-items-center mt-1 mb-2">
+    <div class="d-flex">
+        <div class="col-3">
+            <p>@orderProduct.Product.Name</p>
+        </div>
+        <div class="col-3">
+            <p>£@orderProduct.UnitPrice</p>
+        </div>
+        <div class="col-3">
+            <p>@orderProduct.Quantity</p>
+        </div>
+        <div class="col-3">
+            <p>£@String.Format("{0:0.00}",orderProduct.Quantity * orderProduct.UnitPrice)</p>
+        </div>
+    </div>
+    <hr />
+}
+<div class="d-flex">
+    <div class="col-6">
+
+    </div>
+    <div class="col-3">
+        <p>Subtotal</p>
+        <p class="text-danger">Amendments</p>
+        <h6 class="fw-bold">Grand total</h6>
+    </div>
+    <div class="col-3">
+        <p>£@String.Format("{0:0.00}",Model.OrderProducts.Sum(p => p.UnitPrice * p.Quantity))</p>
+        <p class="text-danger">£@String.Format("{0:0.00}", Model.OrderHeader.TotalAmount - Model.OrderProducts.Sum(p => p.UnitPrice * p.Quantity))</p>
+        <h6 class="fw-bold">£@String.Format("{0:0.00}",Model.OrderHeader.TotalAmount)</h6>
+    </div>
+</div>
